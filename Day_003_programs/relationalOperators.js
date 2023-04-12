@@ -1,0 +1,10 @@
+console.log(2 < 2);
+console.log(2 < 3);
+console.log(4 < 5);
+console.log(2 < 1);
+console.log(5 < 2);
+console.log(4 < 1);
+console.log(2 == "2");
+console.log(true <= false);
+console.log(15 + 15 + "15");
+console.log("one" < 7);
